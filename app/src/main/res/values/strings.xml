@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Diskusi Hangat</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Menu</string>
+    <string name="title_logout">Log Out</string>
+    <string name="EmailHint">Enter your Email Here</string>
+    <string name="PasswordHint">Enter your Password Here</string>
+    <string name="btnLogin">Log In</string>
+    <string name="btnKembali">Back</string>
+    <string name="btnRegister">Register</string>
+    <string name="txtHome">Halaman Home</string>
+    <string name="txtMenu">Halaman Menu</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
